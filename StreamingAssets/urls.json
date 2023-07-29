@@ -19,7 +19,33 @@
 		{
 			"name":"Gran Vía",
 			"url":"Gran Vía.png"
-		}
-				
+		},
+		{
+			"name":"Inquietante",
+			"url":"Inquietante.png"
+		},
+		{
+			"name":"Kiki Sue",
+			"url":"Kiki Sue.png"
+		},
+		{
+			"name":"La fábrica de calderas",
+			"url":"La fábrica de calderas.jpg"
+		},
+		{
+			"name":"Night in the Northlands",
+			"url":"Night in the Northlands.png"
+		{
+			"name":"No se amilana",
+			"url":"No se amilana.jpg"
+		},
+		{
+			"name":"Smoke gets in your eyes",
+			"url":"Smoke gets in your eyes.png"
+		},
+		{
+			"name":"Tahúres",
+			"url":"Tahúres.png"
+		}					
 	]
 }
